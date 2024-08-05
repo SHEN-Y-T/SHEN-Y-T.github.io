@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yutao Shen (Brooks)</title>
+    <link>https://SHEN-Y-T.github.io/tags/</link>
+    <description>Recent content in Tags on Yutao Shen (Brooks)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://SHEN-Y-T.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arabic</title>
+      <link>https://SHEN-Y-T.github.io/tags/arabic/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://SHEN-Y-T.github.io/tags/arabic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hydroponics</title>
+      <link>https://SHEN-Y-T.github.io/tags/hydroponics/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://SHEN-Y-T.github.io/tags/hydroponics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wastewater</title>
+      <link>https://SHEN-Y-T.github.io/tags/wastewater/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://SHEN-Y-T.github.io/tags/wastewater/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://SHEN-Y-T.github.io/tags/hugo/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://SHEN-Y-T.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installation</title>
+      <link>https://SHEN-Y-T.github.io/tags/installation/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>https://SHEN-Y-T.github.io/tags/installation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

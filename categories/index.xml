@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Yutao Shen (Brooks)</title>
+    <link>https://SHEN-Y-T.github.io/categories/</link>
+    <description>Recent content in Categories on Yutao Shen (Brooks)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://SHEN-Y-T.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Language</title>
+      <link>https://SHEN-Y-T.github.io/categories/language/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://SHEN-Y-T.github.io/categories/language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scientific Research</title>
+      <link>https://SHEN-Y-T.github.io/categories/scientific-research/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://SHEN-Y-T.github.io/categories/scientific-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer</title>
+      <link>https://SHEN-Y-T.github.io/categories/computer/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://SHEN-Y-T.github.io/categories/computer/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
